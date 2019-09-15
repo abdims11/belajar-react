@@ -15,6 +15,7 @@ function App() {
                     <Link to="/aboutme">About Me</Link>
                     <Link to="/projects">Project</Link>
                     <Link to="/content">Content</Link>
+                    <Link to="/abdi">Abdi</Link>
                 </Navigation>
             </Header>
             <Drawer title="ReactJs">
@@ -23,6 +24,7 @@ function App() {
                     <Link to="/aboutme">About Me</Link>
                     <Link to="/projects">Project</Link>
                     <Link to="/content">Content</Link>
+                    <Link to="/abdi">Abdi</Link>
                 </Navigation>
             </Drawer>
             <Content>
