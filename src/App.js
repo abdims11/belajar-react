@@ -11,18 +11,18 @@ function App() {
         <Layout>
             <Header className="header-color" title="ReactJs" scroll>
                 <Navigation>
+                    <Link to="/projects">Project</Link>
                     <Link to="/resume">Resume</Link>
                     <Link to="/aboutme">About Me</Link>
-                    <Link to="/projects">Project</Link>
                     <Link to="/content">Content</Link>
                     <Link to="/abdi">Abdi</Link>
                 </Navigation>
             </Header>
             <Drawer title="ReactJs">
                 <Navigation>
+                    <Link to="/projects">Project</Link>
                     <Link to="/resume">Resume</Link>
                     <Link to="/aboutme">About Me</Link>
-                    <Link to="/projects">Project</Link>
                     <Link to="/content">Content</Link>
                     <Link to="/abdi">Abdi</Link>
                 </Navigation>
